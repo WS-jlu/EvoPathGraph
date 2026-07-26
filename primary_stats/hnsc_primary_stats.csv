@@ -1,0 +1,449 @@
+case_id,ajcc_pathologic_stage,days_to_last_follow_up,tss,primary_site,vital_status,days_to_death,age_at_index,days_to_progression,days_to_recurrence,progression_or_recurrence,progression_flag,recurrence_flag,os_censorship,pfs_censorship,os_value,pfs_value,stage_value,dataset_name
+TCGA-4P-AA8J,Stage IVA,102.0,4P,Other and unspecified parts of tongue,Alive,,66.0,,,No,No,No,1.0,1.0,102.0,102.0,IVA,hnsc
+TCGA-BA-4074,Stage IVA,462.0,BA,Other and unspecified parts of tongue,Dead,462.0,69.0,396.0,,Yes,Yes,No,0.0,0.0,462.0,396.0,IVA,hnsc
+TCGA-BA-4075,Stage III,283.0,BA,Other and unspecified parts of tongue,Dead,283.0,49.0,,236.0,Yes,No,Yes,0.0,1.0,283.0,283.0,III,hnsc
+TCGA-BA-4077,Stage IVA,1134.0,BA,Other and unspecified parts of tongue,Dead,1134.0,45.0,,,No,No,No,0.0,1.0,1134.0,1134.0,IVA,hnsc
+TCGA-BA-5149,Stage IVA,806.0,BA,Floor of mouth,Dead,806.0,47.0,389.0,389.0,Yes,Yes,Yes,0.0,0.0,806.0,389.0,IVA,hnsc
+TCGA-BA-5152,Stage IVA,1288.0,BA,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,56.0,,,No,No,No,1.0,1.0,1288.0,1288.0,IVA,hnsc
+TCGA-BA-5555,Stage IVA,520.0,BA,Larynx,Alive,,54.0,,248.0,Yes,No,Yes,1.0,1.0,520.0,520.0,IVA,hnsc
+TCGA-BA-5556,Stage II,725.0,BA,Floor of mouth,Alive,,58.0,,,No,No,No,1.0,1.0,725.0,725.0,II,hnsc
+TCGA-BA-5557,Stage III,623.0,BA,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,41.0,,,No,No,No,1.0,1.0,623.0,623.0,III,hnsc
+TCGA-BA-6869,Stage III,644.0,BA,Larynx,Alive,,62.0,,,No,No,No,1.0,1.0,644.0,644.0,III,hnsc
+TCGA-BA-6873,Stage IVA,122.0,BA,Other and unspecified parts of tongue,Alive,,28.0,,66.0,Yes,No,Yes,1.0,1.0,122.0,122.0,IVA,hnsc
+TCGA-BA-7269,Stage III,1273.0,BA,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,1273.0,1273.0,III,hnsc
+TCGA-BA-A4II,Stage II,918.0,BA,Oropharynx,Alive,,46.0,,918.0,Yes,No,Yes,1.0,1.0,918.0,918.0,II,hnsc
+TCGA-BA-A6D8,Stage IVA,850.0,BA,Floor of mouth,Alive,,59.0,849.0,,Yes,Yes,No,1.0,0.0,850.0,849.0,IVA,hnsc
+TCGA-BA-A6DA,Stage IVA,351.0,BA,Larynx,Alive,,41.0,,,No,No,No,1.0,1.0,351.0,351.0,IVA,hnsc
+TCGA-BA-A6DB,Stage I,216.0,BA,Other and unspecified parts of tongue,Alive,,24.0,,208.0,Yes,No,Yes,1.0,1.0,216.0,216.0,I,hnsc
+TCGA-BA-A6DD,Stage IVA,173.0,BA,Floor of mouth,Dead,173.0,44.0,,96.0,Yes,No,Yes,0.0,1.0,173.0,173.0,IVA,hnsc
+TCGA-BA-A6DE,Stage II,440.0,BA,Other and unspecified parts of tongue,Alive,,70.0,,,No,No,No,1.0,1.0,440.0,440.0,II,hnsc
+TCGA-BA-A6DF,Stage IVA,238.0,BA,Floor of mouth,Dead,238.0,80.0,,,No,No,No,0.0,1.0,238.0,238.0,IVA,hnsc
+TCGA-BA-A6DJ,Stage IVA,407.0,BA,Gum,Dead,407.0,62.0,240.0,,Yes,Yes,No,0.0,0.0,407.0,240.0,IVA,hnsc
+TCGA-BA-A8YP,Stage IVB,499.0,BA,Oropharynx,Alive,,50.0,,,No,No,No,1.0,1.0,499.0,499.0,IVB,hnsc
+TCGA-BB-4217,Stage IVA,187.0,BB,Larynx,Alive,,68.0,,,No,No,No,1.0,1.0,187.0,187.0,IVA,hnsc
+TCGA-BB-4223,Stage IVA,3221.0,BB,Tonsil,Alive,,48.0,,,No,No,No,1.0,1.0,3221.0,3221.0,IVA,hnsc
+TCGA-BB-4224,Stage IVA,278.0,BB,Other and unspecified parts of tongue,Alive,,52.0,,175.0,Yes,No,Yes,1.0,1.0,278.0,278.0,IVA,hnsc
+TCGA-BB-4227,Stage IVA,134.0,BB,Hypopharynx,Alive,,66.0,,85.0,Yes,No,Yes,1.0,1.0,134.0,134.0,IVA,hnsc
+TCGA-BB-4228,Stage III,559.0,BB,Base of tongue,Alive,,50.0,,,No,No,No,1.0,1.0,559.0,559.0,III,hnsc
+TCGA-BB-7861,Stage III,682.0,BB,Base of tongue,Alive,,56.0,,,No,No,No,1.0,1.0,682.0,682.0,III,hnsc
+TCGA-BB-7862,Stage IVA,1117.0,BB,Larynx,Alive,,67.0,,,No,No,No,1.0,1.0,1117.0,1117.0,IVA,hnsc
+TCGA-BB-7863,Stage III,1025.0,BB,Other and unspecified parts of tongue,Alive,,43.0,,,No,No,No,1.0,1.0,1025.0,1025.0,III,hnsc
+TCGA-BB-7864,Stage IVA,1527.0,BB,Larynx,Alive,,61.0,,,No,No,No,1.0,1.0,1527.0,1527.0,IVA,hnsc
+TCGA-BB-7870,Stage IVA,2016.0,BB,Larynx,Alive,,58.0,,,No,No,No,1.0,1.0,2016.0,2016.0,IVA,hnsc
+TCGA-BB-7871,Stage IVA,750.0,BB,Base of tongue,Alive,,64.0,428.0,,Yes,Yes,No,1.0,0.0,750.0,428.0,IVA,hnsc
+TCGA-BB-7872,Stage I,1168.0,BB,Other and unspecified parts of mouth,Alive,,63.0,,,No,No,No,1.0,1.0,1168.0,1168.0,I,hnsc
+TCGA-BB-8596,Stage IVA,2161.0,BB,Hypopharynx,Alive,,69.0,,,No,No,No,1.0,1.0,2161.0,2161.0,IVA,hnsc
+TCGA-BB-8601,Stage III,624.0,BB,Floor of mouth,Alive,,84.0,,440.0,Yes,No,Yes,1.0,1.0,624.0,624.0,III,hnsc
+TCGA-BB-A5HU,Stage IVA,782.0,BB,Other and unspecified parts of mouth,Alive,,47.0,,,No,No,No,1.0,1.0,782.0,782.0,IVA,hnsc
+TCGA-BB-A5HY,Stage IVA,321.0,BB,Hypopharynx,Dead,321.0,64.0,230.0,,Yes,Yes,No,0.0,0.0,321.0,230.0,IVA,hnsc
+TCGA-BB-A5HZ,Stage IVA,827.0,BB,Other and unspecified parts of mouth,Alive,,65.0,438.0,,Yes,Yes,No,1.0,0.0,827.0,438.0,IVA,hnsc
+TCGA-BB-A6UM,Stage III,393.0,BB,Tonsil,Alive,,52.0,,,No,No,No,1.0,1.0,393.0,393.0,III,hnsc
+TCGA-BB-A6UO,Stage IVA,268.0,BB,Other and unspecified parts of tongue,Dead,268.0,61.0,212.0,,Yes,Yes,No,0.0,0.0,268.0,212.0,IVA,hnsc
+TCGA-C9-A47Z,Stage III,191.0,C9,Other and unspecified parts of tongue,Dead,191.0,72.0,,,No,No,No,0.0,1.0,191.0,191.0,III,hnsc
+TCGA-C9-A480,Stage III,386.0,C9,Other and unspecified parts of tongue,Alive,,45.0,,,No,No,No,1.0,1.0,386.0,386.0,III,hnsc
+TCGA-CN-4722,Stage II,1483.0,CN,Larynx,Alive,,61.0,,,No,No,No,1.0,1.0,1483.0,1483.0,II,hnsc
+TCGA-CN-4723,Stage IVA,1699.0,CN,Larynx,Alive,,67.0,,,No,No,No,1.0,1.0,1699.0,1699.0,IVA,hnsc
+TCGA-CN-4725,Stage II,1157.0,CN,Other and unspecified parts of tongue,Alive,,60.0,,,No,No,No,1.0,1.0,1157.0,1157.0,II,hnsc
+TCGA-CN-4726,Stage IVA,142.0,CN,Other and unspecified parts of mouth,Dead,142.0,68.0,79.0,,Yes,Yes,No,0.0,0.0,142.0,79.0,IVA,hnsc
+TCGA-CN-4727,Stage IVA,1560.0,CN,Larynx,Alive,,56.0,,,No,No,No,1.0,1.0,1560.0,1560.0,IVA,hnsc
+TCGA-CN-4728,Stage IVA,1724.0,CN,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,56.0,,,No,No,No,1.0,1.0,1724.0,1724.0,IVA,hnsc
+TCGA-CN-4729,Stage III,392.0,CN,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,73.0,,,No,No,No,1.0,1.0,392.0,392.0,III,hnsc
+TCGA-CN-4730,Stage IVA,817.0,CN,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,62.0,,,No,No,No,1.0,1.0,817.0,817.0,IVA,hnsc
+TCGA-CN-4733,Stage III,1586.0,CN,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,1586.0,1586.0,III,hnsc
+TCGA-CN-4734,Stage II,1690.0,CN,Other and unspecified parts of mouth,Alive,,70.0,,,No,No,No,1.0,1.0,1690.0,1690.0,II,hnsc
+TCGA-CN-4735,Stage IVA,1737.0,CN,Larynx,Alive,,52.0,,,No,No,No,1.0,1.0,1737.0,1737.0,IVA,hnsc
+TCGA-CN-4737,Stage IVA,625.0,CN,Other and unspecified parts of tongue,Alive,,19.0,,,No,No,No,1.0,1.0,625.0,625.0,IVA,hnsc
+TCGA-CN-4738,Stage IVA,436.0,CN,Larynx,Dead,436.0,53.0,,,No,No,No,0.0,1.0,436.0,436.0,IVA,hnsc
+TCGA-CN-4739,Stage IVA,1394.0,CN,Larynx,Dead,1394.0,71.0,,1302.0,Yes,No,Yes,0.0,1.0,1394.0,1394.0,IVA,hnsc
+TCGA-CN-4740,Stage IVA,839.0,CN,Other and unspecified parts of mouth,Dead,839.0,79.0,,720.0,Yes,No,Yes,0.0,1.0,839.0,839.0,IVA,hnsc
+TCGA-CN-4741,Stage IVA,2239.0,CN,Gum,Alive,,75.0,2168.0,,Yes,Yes,No,1.0,0.0,2239.0,2168.0,IVA,hnsc
+TCGA-CN-4742,Stage IVA,397.0,CN,Other and unspecified parts of tongue,Dead,397.0,48.0,,,No,No,No,0.0,1.0,397.0,397.0,IVA,hnsc
+TCGA-CN-5355,Stage IVA,1278.0,CN,Larynx,Alive,,64.0,,,No,No,No,1.0,1.0,1278.0,1278.0,IVA,hnsc
+TCGA-CN-5356,Stage III,1409.0,CN,Larynx,Alive,,56.0,,,No,No,No,1.0,1.0,1409.0,1409.0,III,hnsc
+TCGA-CN-5358,Stage II,261.0,CN,Floor of mouth,Dead,261.0,60.0,,145.0,Yes,No,Yes,0.0,1.0,261.0,261.0,II,hnsc
+TCGA-CN-5359,Stage IVA,377.0,CN,Floor of mouth,Dead,377.0,59.0,356.0,356.0,Yes,Yes,Yes,0.0,0.0,377.0,356.0,IVA,hnsc
+TCGA-CN-5360,Stage IVA,2169.0,CN,Larynx,Alive,,68.0,,,No,No,No,1.0,1.0,2169.0,2169.0,IVA,hnsc
+TCGA-CN-5361,Stage IVA,2120.0,CN,Larynx,Dead,2120.0,80.0,,,No,No,No,0.0,1.0,2120.0,2120.0,IVA,hnsc
+TCGA-CN-5363,Stage IVB,253.0,CN,Larynx,Dead,253.0,48.0,53.0,53.0,Yes,Yes,Yes,0.0,0.0,253.0,53.0,IVB,hnsc
+TCGA-CN-5364,Stage IVA,493.0,CN,Floor of mouth,Dead,493.0,55.0,,,No,No,No,0.0,1.0,493.0,493.0,IVA,hnsc
+TCGA-CN-5365,Stage IVB,351.0,CN,Tonsil,Dead,351.0,38.0,,,No,No,No,0.0,1.0,351.0,351.0,IVB,hnsc
+TCGA-CN-5366,Stage IVA,360.0,CN,Larynx,Dead,360.0,51.0,,276.0,Yes,No,Yes,0.0,1.0,360.0,360.0,IVA,hnsc
+TCGA-CN-5367,Stage IVA,352.0,CN,Other and unspecified parts of tongue,Dead,352.0,60.0,,,No,No,No,0.0,1.0,352.0,352.0,IVA,hnsc
+TCGA-CN-5369,Stage IVA,1.0,CN,Palate,Dead,1.0,89.0,,,No,No,No,0.0,1.0,1.0,1.0,IVA,hnsc
+TCGA-CN-5370,Stage III,259.0,CN,Other and unspecified parts of tongue,Dead,259.0,78.0,,123.0,Yes,No,Yes,0.0,1.0,259.0,259.0,III,hnsc
+TCGA-CN-5373,Stage I,1584.0,CN,Floor of mouth,Alive,,55.0,,,No,No,No,1.0,1.0,1584.0,1584.0,I,hnsc
+TCGA-CN-5374,Stage IVA,1732.0,CN,Tonsil,Dead,1732.0,56.0,1369.0,1369.0,Yes,Yes,Yes,0.0,0.0,1732.0,1369.0,IVA,hnsc
+TCGA-CN-6010,Stage IVA,1523.0,CN,Larynx,Alive,,53.0,,,No,No,No,1.0,1.0,1523.0,1523.0,IVA,hnsc
+TCGA-CN-6011,Stage IVA,933.0,CN,Gum,Alive,,57.0,,,No,No,No,1.0,1.0,933.0,933.0,IVA,hnsc
+TCGA-CN-6012,Stage IVA,1460.0,CN,Larynx,Alive,,66.0,,,No,No,No,1.0,1.0,1460.0,1460.0,IVA,hnsc
+TCGA-CN-6013,Stage IVA,727.0,CN,Gum,Dead,727.0,56.0,323.0,,Yes,Yes,No,0.0,0.0,727.0,323.0,IVA,hnsc
+TCGA-CN-6016,Stage IVA,1443.0,CN,Other and unspecified parts of tongue,Alive,,64.0,,,No,No,No,1.0,1.0,1443.0,1443.0,IVA,hnsc
+TCGA-CN-6017,Stage IVA,853.0,CN,Other and unspecified parts of tongue,Dead,853.0,55.0,,,No,No,No,0.0,1.0,853.0,853.0,IVA,hnsc
+TCGA-CN-6018,Stage IVA,580.0,CN,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,580.0,85.0,,,No,No,No,0.0,1.0,580.0,580.0,IVA,hnsc
+TCGA-CN-6019,Stage IVA,1038.0,CN,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,1038.0,1038.0,IVA,hnsc
+TCGA-CN-6020,Stage III,205.0,CN,Floor of mouth,Dead,205.0,58.0,,,No,No,No,0.0,1.0,205.0,205.0,III,hnsc
+TCGA-CN-6022,Stage IVA,281.0,CN,Larynx,Dead,281.0,49.0,,101.0,Yes,No,Yes,0.0,1.0,281.0,281.0,IVA,hnsc
+TCGA-CN-6023,Stage IVA,1584.0,CN,Larynx,Alive,,73.0,,,No,No,No,1.0,1.0,1584.0,1584.0,IVA,hnsc
+TCGA-CN-6024,Stage IVA,337.0,CN,Other and unspecified parts of tongue,Dead,337.0,66.0,,156.0,Yes,No,Yes,0.0,1.0,337.0,337.0,IVA,hnsc
+TCGA-CN-6988,Stage IVA,318.0,CN,Larynx,Alive,,47.0,,,No,No,No,1.0,1.0,318.0,318.0,IVA,hnsc
+TCGA-CN-6989,Stage IVA,980.0,CN,Larynx,Dead,980.0,64.0,576.0,,Yes,Yes,No,0.0,0.0,980.0,576.0,IVA,hnsc
+TCGA-CN-6992,Stage IVA,1066.0,CN,Larynx,Alive,,61.0,,,No,No,No,1.0,1.0,1066.0,1066.0,IVA,hnsc
+TCGA-CN-6994,Stage IVA,1183.0,CN,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,67.0,,,No,No,No,1.0,1.0,1183.0,1183.0,IVA,hnsc
+TCGA-CN-6995,Stage IVA,112.0,CN,Floor of mouth,Dead,112.0,78.0,,,No,No,No,0.0,1.0,112.0,112.0,IVA,hnsc
+TCGA-CN-6996,Stage IVA,530.0,CN,Other and unspecified parts of tongue,Dead,530.0,58.0,,447.0,Yes,No,Yes,0.0,1.0,530.0,530.0,IVA,hnsc
+TCGA-CN-6997,Stage IVA,988.0,CN,Larynx,Dead,988.0,66.0,279.0,,Yes,Yes,No,0.0,0.0,988.0,279.0,IVA,hnsc
+TCGA-CN-6998,Stage IVA,357.0,CN,Other and unspecified parts of tongue,Dead,357.0,53.0,,244.0,Yes,No,Yes,0.0,1.0,357.0,357.0,IVA,hnsc
+TCGA-CN-A497,Stage III,1065.0,CN,Larynx,Alive,,63.0,,,No,No,No,1.0,1.0,1065.0,1065.0,III,hnsc
+TCGA-CN-A498,Stage III,773.0,CN,Other and unspecified parts of tongue,Dead,773.0,61.0,,186.0,Yes,No,Yes,0.0,1.0,773.0,773.0,III,hnsc
+TCGA-CN-A499,Stage II,717.0,CN,Tonsil,Alive,,60.0,,,No,No,No,1.0,1.0,717.0,717.0,II,hnsc
+TCGA-CN-A49A,Stage IVB,526.0,CN,Palate,Dead,526.0,60.0,344.0,,Yes,Yes,No,0.0,0.0,526.0,344.0,IVB,hnsc
+TCGA-CN-A49B,Stage III,904.0,CN,Larynx,Alive,,71.0,,,No,No,No,1.0,1.0,904.0,904.0,III,hnsc
+TCGA-CN-A63T,Stage IVA,225.0,CN,Larynx,Alive,,60.0,,,No,No,No,1.0,1.0,225.0,225.0,IVA,hnsc
+TCGA-CN-A63U,Stage IVA,964.0,CN,Larynx,Alive,,50.0,,,No,No,No,1.0,1.0,964.0,964.0,IVA,hnsc
+TCGA-CN-A63V,Stage IVA,679.0,CN,Other and unspecified parts of mouth,Alive,,59.0,,,No,No,No,1.0,1.0,679.0,679.0,IVA,hnsc
+TCGA-CN-A63W,Stage IVA,377.0,CN,Larynx,Dead,377.0,48.0,,,No,No,No,0.0,1.0,377.0,377.0,IVA,hnsc
+TCGA-CN-A63Y,Stage II,504.0,CN,Tonsil,Alive,,46.0,,,No,No,No,1.0,1.0,504.0,504.0,II,hnsc
+TCGA-CN-A640,Stage IVA,134.0,CN,Other and unspecified parts of tongue,Dead,134.0,40.0,,,No,No,No,0.0,1.0,134.0,134.0,IVA,hnsc
+TCGA-CN-A641,Stage IVA,367.0,CN,Larynx,Alive,,47.0,,,No,No,No,1.0,1.0,367.0,367.0,IVA,hnsc
+TCGA-CN-A642,Stage IVB,82.0,CN,Other and unspecified parts of tongue,Dead,82.0,57.0,,,No,No,No,0.0,1.0,82.0,82.0,IVB,hnsc
+TCGA-CN-A6UY,Stage IVA,713.0,CN,Base of tongue,Alive,,57.0,,,No,No,No,1.0,1.0,713.0,713.0,IVA,hnsc
+TCGA-CN-A6V1,Stage IVA,603.0,CN,Tonsil,Alive,,59.0,,,No,No,No,1.0,1.0,603.0,603.0,IVA,hnsc
+TCGA-CN-A6V3,Stage IVA,742.0,CN,Larynx,Alive,,61.0,,,No,No,No,1.0,1.0,742.0,742.0,IVA,hnsc
+TCGA-CN-A6V6,Stage IVA,635.0,CN,Base of tongue,Alive,,59.0,,,No,No,No,1.0,1.0,635.0,635.0,IVA,hnsc
+TCGA-CN-A6V7,Stage IVA,594.0,CN,Tonsil,Alive,,40.0,,,No,No,No,1.0,1.0,594.0,594.0,IVA,hnsc
+TCGA-CQ-5323,Stage I,1466.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,82.0,,,No,No,No,1.0,1.0,1466.0,1466.0,I,hnsc
+TCGA-CQ-5324,Stage III,1593.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,59.0,,,No,No,No,1.0,1.0,1593.0,1593.0,III,hnsc
+TCGA-CQ-5325,Stage I,654.0,CQ,Other and unspecified parts of tongue,Dead,654.0,65.0,589.0,589.0,Yes,Yes,Yes,0.0,0.0,654.0,589.0,I,hnsc
+TCGA-CQ-5326,Stage IVA,89.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,89.0,67.0,,,No,No,No,0.0,1.0,89.0,89.0,IVA,hnsc
+TCGA-CQ-5327,Stage IVA,1660.0,CQ,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,1660.0,1660.0,IVA,hnsc
+TCGA-CQ-5329,Stage II,2143.0,CQ,Other and unspecified parts of tongue,Alive,,46.0,,,No,No,No,1.0,1.0,2143.0,2143.0,II,hnsc
+TCGA-CQ-5330,Stage IVA,1897.0,CQ,Other and unspecified parts of tongue,Alive,,69.0,,,No,No,No,1.0,1.0,1897.0,1897.0,IVA,hnsc
+TCGA-CQ-5332,Stage III,317.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,317.0,87.0,,,No,No,No,0.0,1.0,317.0,317.0,III,hnsc
+TCGA-CQ-5333,Stage II,341.0,CQ,Other and unspecified parts of tongue,Dead,341.0,74.0,,176.0,Yes,No,Yes,0.0,1.0,341.0,341.0,II,hnsc
+TCGA-CQ-5334,Stage IVA,129.0,CQ,Other and unspecified parts of mouth,Dead,129.0,87.0,,50.0,Yes,No,Yes,0.0,1.0,129.0,129.0,IVA,hnsc
+TCGA-CQ-6218,Stage IVA,1253.0,CQ,Other and unspecified parts of tongue,Alive,,52.0,,,No,No,No,1.0,1.0,1253.0,1253.0,IVA,hnsc
+TCGA-CQ-6219,Stage IVA,479.0,CQ,Other and unspecified parts of tongue,Dead,479.0,50.0,,195.0,Yes,No,Yes,0.0,1.0,479.0,479.0,IVA,hnsc
+TCGA-CQ-6220,Stage III,985.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,985.0,69.0,,,No,No,No,0.0,1.0,985.0,985.0,III,hnsc
+TCGA-CQ-6222,Stage IVA,2016.0,CQ,Other and unspecified parts of tongue,Alive,,63.0,,,No,No,No,1.0,1.0,2016.0,2016.0,IVA,hnsc
+TCGA-CQ-6223,Stage II,1428.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,69.0,,,No,No,No,1.0,1.0,1428.0,1428.0,II,hnsc
+TCGA-CQ-6224,Stage IVA,1721.0,CQ,Other and unspecified parts of tongue,Alive,,52.0,,,No,No,No,1.0,1.0,1721.0,1721.0,IVA,hnsc
+TCGA-CQ-6225,Stage III,403.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,403.0,65.0,,180.0,Yes,No,Yes,0.0,1.0,403.0,403.0,III,hnsc
+TCGA-CQ-6227,Stage IVA,129.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,129.0,77.0,,,No,No,No,0.0,1.0,129.0,129.0,IVA,hnsc
+TCGA-CQ-6228,Stage IVA,456.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,456.0,71.0,273.0,273.0,Yes,Yes,Yes,0.0,0.0,456.0,273.0,IVA,hnsc
+TCGA-CQ-6229,Stage II,1179.0,CQ,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,1179.0,1179.0,II,hnsc
+TCGA-CQ-7063,Stage I,2133.0,CQ,Other and unspecified parts of mouth,Alive,,59.0,,1160.0,Yes,No,Yes,1.0,1.0,2133.0,2133.0,I,hnsc
+TCGA-CQ-7064,Stage III,1973.0,CQ,Other and unspecified parts of mouth,Alive,,83.0,,,No,No,No,1.0,1.0,1973.0,1973.0,III,hnsc
+TCGA-CQ-7065,Stage II,1628.0,CQ,Other and unspecified parts of tongue,Alive,,40.0,,230.0,Yes,No,Yes,1.0,1.0,1628.0,1628.0,II,hnsc
+TCGA-CQ-7067,Stage I,509.0,CQ,Other and unspecified parts of mouth,Alive,,75.0,,,No,No,No,1.0,1.0,509.0,509.0,I,hnsc
+TCGA-CQ-7068,Stage II,1309.0,CQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,80.0,,,No,No,No,1.0,1.0,1309.0,1309.0,II,hnsc
+TCGA-CQ-7069,Stage II,1274.0,CQ,Other and unspecified parts of mouth,Alive,,77.0,,,No,No,No,1.0,1.0,1274.0,1274.0,II,hnsc
+TCGA-CQ-7071,Stage III,1311.0,CQ,Other and unspecified parts of mouth,Alive,,76.0,,,No,No,No,1.0,1.0,1311.0,1311.0,III,hnsc
+TCGA-CQ-7072,Stage II,2359.0,CQ,Other and unspecified parts of tongue,Alive,,51.0,,,No,No,No,1.0,1.0,2359.0,2359.0,II,hnsc
+TCGA-CQ-A4C6,Stage II,1353.0,CQ,Other and unspecified parts of mouth,Alive,,63.0,,,No,No,No,1.0,1.0,1353.0,1353.0,II,hnsc
+TCGA-CQ-A4C7,Stage III,353.0,CQ,Floor of mouth,Dead,353.0,88.0,,207.0,Yes,No,Yes,0.0,1.0,353.0,353.0,III,hnsc
+TCGA-CQ-A4C9,Stage III,707.0,CQ,Floor of mouth,Alive,,56.0,,287.0,Yes,No,Yes,1.0,1.0,707.0,707.0,III,hnsc
+TCGA-CQ-A4CB,Stage III,893.0,CQ,Floor of mouth,Alive,,59.0,,,No,No,No,1.0,1.0,893.0,893.0,III,hnsc
+TCGA-CQ-A4CD,Stage IVA,1022.0,CQ,"Bones, joints and articular cartilage of other and unspecified sites",Alive,,69.0,,,No,No,No,1.0,1.0,1022.0,1022.0,IVA,hnsc
+TCGA-CQ-A4CE,Stage II,897.0,CQ,Other and unspecified parts of tongue,Alive,,76.0,,,No,No,No,1.0,1.0,897.0,897.0,II,hnsc
+TCGA-CQ-A4CG,Stage III,430.0,CQ,Other and unspecified parts of mouth,Dead,430.0,78.0,350.0,,Yes,Yes,No,0.0,0.0,430.0,350.0,III,hnsc
+TCGA-CQ-A4CH,Stage II,379.0,CQ,Other and unspecified parts of tongue,Dead,379.0,58.0,354.0,210.0,Yes,Yes,Yes,0.0,0.0,379.0,354.0,II,hnsc
+TCGA-CQ-A4CI,Stage III,950.0,CQ,Other and unspecified parts of mouth,Alive,,73.0,517.0,,Yes,Yes,No,1.0,0.0,950.0,517.0,III,hnsc
+TCGA-CR-5249,Stage II,1152.0,CR,Tonsil,Alive,,35.0,,,No,No,No,1.0,1.0,1152.0,1152.0,II,hnsc
+TCGA-CR-6467,Stage III,1777.0,CR,Tonsil,Alive,,59.0,,,No,No,No,1.0,1.0,1777.0,1777.0,III,hnsc
+TCGA-CR-6470,Stage II,1521.0,CR,Tonsil,Alive,,38.0,,,No,No,No,1.0,1.0,1521.0,1521.0,II,hnsc
+TCGA-CR-6471,Stage IVA,1202.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,1202.0,58.0,1017.0,783.0,Yes,Yes,Yes,0.0,0.0,1202.0,1017.0,IVA,hnsc
+TCGA-CR-6474,Stage IVA,564.0,CR,Larynx,Dead,564.0,51.0,,220.0,Yes,No,Yes,0.0,1.0,564.0,564.0,IVA,hnsc
+TCGA-CR-6484,Stage IVA,354.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,67.0,,,No,No,No,1.0,1.0,354.0,354.0,IVA,hnsc
+TCGA-CR-6487,Stage I,234.0,CR,Tonsil,Alive,,50.0,,,No,No,No,1.0,1.0,234.0,234.0,I,hnsc
+TCGA-CR-6488,Stage II,379.0,CR,Other and unspecified parts of tongue,Alive,,68.0,,,No,No,No,1.0,1.0,379.0,379.0,II,hnsc
+TCGA-CR-6491,Stage IVA,693.0,CR,Floor of mouth,Alive,,60.0,,,No,No,No,1.0,1.0,693.0,693.0,IVA,hnsc
+TCGA-CR-6492,Stage III,479.0,CR,Palate,Alive,,78.0,,,No,No,No,1.0,1.0,479.0,479.0,III,hnsc
+TCGA-CR-6493,Stage IVA,282.0,CR,Other and unspecified parts of tongue,Dead,282.0,69.0,,247.0,Yes,No,Yes,0.0,1.0,282.0,282.0,IVA,hnsc
+TCGA-CR-7364,Stage III,1435.0,CR,Larynx,Alive,,66.0,,,No,No,No,1.0,1.0,1435.0,1435.0,III,hnsc
+TCGA-CR-7365,Stage IVA,1191.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,60.0,,,No,No,No,1.0,1.0,1191.0,1191.0,IVA,hnsc
+TCGA-CR-7367,Stage IVA,1440.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,52.0,,,No,No,No,1.0,1.0,1440.0,1440.0,IVA,hnsc
+TCGA-CR-7368,Stage IVA,1245.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,54.0,,,No,No,No,1.0,1.0,1245.0,1245.0,IVA,hnsc
+TCGA-CR-7369,Stage IVA,1090.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,1090.0,59.0,,,No,No,No,0.0,1.0,1090.0,1090.0,IVA,hnsc
+TCGA-CR-7371,Stage III,94.0,CR,Larynx,Dead,94.0,45.0,,,No,No,No,0.0,1.0,94.0,94.0,III,hnsc
+TCGA-CR-7372,Stage I,759.0,CR,Other and unspecified parts of tongue,Alive,,45.0,,,No,No,No,1.0,1.0,759.0,759.0,I,hnsc
+TCGA-CR-7373,Stage IVA,889.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,66.0,,,No,No,No,1.0,1.0,889.0,889.0,IVA,hnsc
+TCGA-CR-7376,Stage III,972.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,83.0,,,No,No,No,1.0,1.0,972.0,972.0,III,hnsc
+TCGA-CR-7377,Stage IVA,279.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,279.0,58.0,,,No,No,No,0.0,1.0,279.0,279.0,IVA,hnsc
+TCGA-CR-7379,Stage IVA,1036.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,78.0,,,No,No,No,1.0,1.0,1036.0,1036.0,IVA,hnsc
+TCGA-CR-7380,Stage IVB,606.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,606.0,58.0,561.0,561.0,Yes,Yes,Yes,0.0,0.0,606.0,561.0,IVB,hnsc
+TCGA-CR-7382,Stage IVA,796.0,CR,Other and unspecified parts of tongue,Alive,,49.0,,614.0,Yes,No,Yes,1.0,1.0,796.0,796.0,IVA,hnsc
+TCGA-CR-7383,Stage I,521.0,CR,Tonsil,Dead,521.0,79.0,,454.0,Yes,No,Yes,0.0,1.0,521.0,521.0,I,hnsc
+TCGA-CR-7386,Stage IVA,1430.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,69.0,1028.0,1028.0,Yes,Yes,Yes,1.0,0.0,1430.0,1028.0,IVA,hnsc
+TCGA-CR-7390,Stage IVA,1508.0,CR,Other and unspecified parts of tongue,Alive,,67.0,,,No,No,No,1.0,1.0,1508.0,1508.0,IVA,hnsc
+TCGA-CR-7391,Stage I,913.0,CR,Other and unspecified parts of tongue,Alive,,36.0,,,No,No,No,1.0,1.0,913.0,913.0,I,hnsc
+TCGA-CR-7392,Stage IVA,1425.0,CR,Other and unspecified parts of tongue,Alive,,67.0,,,No,No,No,1.0,1.0,1425.0,1425.0,IVA,hnsc
+TCGA-CR-7393,Stage III,993.0,CR,Other and unspecified parts of tongue,Alive,,26.0,,,No,No,No,1.0,1.0,993.0,993.0,III,hnsc
+TCGA-CR-7394,Stage IVA,1346.0,CR,Other and unspecified parts of tongue,Alive,,70.0,,,No,No,No,1.0,1.0,1346.0,1346.0,IVA,hnsc
+TCGA-CR-7395,Stage II,930.0,CR,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,80.0,,,No,No,No,1.0,1.0,930.0,930.0,II,hnsc
+TCGA-CR-7397,Stage IVA,754.0,CR,Other and unspecified parts of tongue,Alive,,44.0,,,No,No,No,1.0,1.0,754.0,754.0,IVA,hnsc
+TCGA-CR-7398,Stage II,156.0,CR,Larynx,Alive,,53.0,,,No,No,No,1.0,1.0,156.0,156.0,II,hnsc
+TCGA-CR-7399,Stage IVA,181.0,CR,Larynx,Alive,,60.0,,,No,No,No,1.0,1.0,181.0,181.0,IVA,hnsc
+TCGA-CR-7401,Stage I,1077.0,CR,Other and unspecified parts of tongue,Alive,,64.0,,,No,No,No,1.0,1.0,1077.0,1077.0,I,hnsc
+TCGA-CV-5430,Stage IVA,4241.0,CV,Larynx,Alive,,61.0,783.0,783.0,Yes,Yes,Yes,1.0,0.0,4241.0,783.0,IVA,hnsc
+TCGA-CV-5431,Stage IVA,522.0,CV,Larynx,Dead,522.0,73.0,,,No,No,No,0.0,1.0,522.0,522.0,IVA,hnsc
+TCGA-CV-5432,Stage III,3930.0,CV,Larynx,Alive,,68.0,,,No,No,No,1.0,1.0,3930.0,3930.0,III,hnsc
+TCGA-CV-5434,Stage IVA,3314.0,CV,Larynx,Dead,3314.0,60.0,1859.0,1859.0,Yes,Yes,Yes,0.0,0.0,3314.0,1859.0,IVA,hnsc
+TCGA-CV-5435,Stage IVA,2319.0,CV,Larynx,Dead,2319.0,57.0,284.0,284.0,Yes,Yes,Yes,0.0,0.0,2319.0,284.0,IVA,hnsc
+TCGA-CV-5436,Stage IVA,584.0,CV,Floor of mouth,Dead,584.0,65.0,,,No,No,No,0.0,1.0,584.0,584.0,IVA,hnsc
+TCGA-CV-5439,Stage IVA,546.0,CV,Base of tongue,Dead,546.0,62.0,,211.0,Yes,No,Yes,0.0,1.0,546.0,546.0,IVA,hnsc
+TCGA-CV-5440,Stage IVA,3270.0,CV,Larynx,Alive,,52.0,,,No,No,No,1.0,1.0,3270.0,3270.0,IVA,hnsc
+TCGA-CV-5441,Stage IVA,2886.0,CV,Larynx,Alive,,58.0,,,No,No,No,1.0,1.0,2886.0,2886.0,IVA,hnsc
+TCGA-CV-5442,Stage IVA,2327.0,CV,Palate,Alive,,76.0,,,No,No,No,1.0,1.0,2327.0,2327.0,IVA,hnsc
+TCGA-CV-5443,Stage III,2784.0,CV,Larynx,Alive,,63.0,,,No,No,No,1.0,1.0,2784.0,2784.0,III,hnsc
+TCGA-CV-5444,Stage IVA,2437.0,CV,Larynx,Alive,,64.0,,,No,No,No,1.0,1.0,2437.0,2437.0,IVA,hnsc
+TCGA-CV-5966,Stage IVA,545.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,545.0,63.0,,,No,No,No,0.0,1.0,545.0,545.0,IVA,hnsc
+TCGA-CV-5970,Stage IVA,406.0,CV,Other and unspecified parts of tongue,Dead,406.0,59.0,,,No,No,No,0.0,1.0,406.0,406.0,IVA,hnsc
+TCGA-CV-5971,Stage IVA,701.0,CV,Other and unspecified parts of tongue,Alive,,60.0,,,No,No,No,1.0,1.0,701.0,701.0,IVA,hnsc
+TCGA-CV-5973,Stage III,2641.0,CV,Other and unspecified parts of tongue,Alive,,62.0,,,No,No,No,1.0,1.0,2641.0,2641.0,III,hnsc
+TCGA-CV-5976,Stage IVA,1478.0,CV,Other and unspecified parts of tongue,Alive,,50.0,,,No,No,No,1.0,1.0,1478.0,1478.0,IVA,hnsc
+TCGA-CV-5977,Stage IVA,1840.0,CV,Other and unspecified parts of tongue,Alive,,66.0,,,No,No,No,1.0,1.0,1840.0,1840.0,IVA,hnsc
+TCGA-CV-5978,Stage IVB,215.0,CV,Larynx,Dead,215.0,53.0,,,No,No,No,0.0,1.0,215.0,215.0,IVB,hnsc
+TCGA-CV-5979,Stage IVA,1315.0,CV,Other and unspecified parts of tongue,Alive,,26.0,,,No,No,No,1.0,1.0,1315.0,1315.0,IVA,hnsc
+TCGA-CV-6003,Stage III,1665.0,CV,Other and unspecified parts of tongue,Alive,,50.0,,,No,No,No,1.0,1.0,1665.0,1665.0,III,hnsc
+TCGA-CV-6433,Stage II,641.0,CV,Other and unspecified parts of tongue,Alive,,57.0,,,No,No,No,1.0,1.0,641.0,641.0,II,hnsc
+TCGA-CV-6436,Stage IVA,1899.0,CV,Other and unspecified parts of tongue,Alive,,62.0,,,No,No,No,1.0,1.0,1899.0,1899.0,IVA,hnsc
+TCGA-CV-6441,Stage III,292.0,CV,Other and unspecified parts of tongue,Dead,292.0,60.0,,95.0,Yes,No,Yes,0.0,1.0,292.0,292.0,III,hnsc
+TCGA-CV-6933,Stage III,2741.0,CV,Other and unspecified parts of tongue,Dead,2741.0,53.0,,,No,No,No,0.0,1.0,2741.0,2741.0,III,hnsc
+TCGA-CV-6934,Stage IVA,65.0,CV,Other and unspecified parts of tongue,Dead,65.0,66.0,,,No,No,No,0.0,1.0,65.0,65.0,IVA,hnsc
+TCGA-CV-6935,Stage IVA,295.0,CV,Larynx,Dead,295.0,67.0,,,No,No,No,0.0,1.0,295.0,295.0,IVA,hnsc
+TCGA-CV-6936,Stage IVA,166.0,CV,Floor of mouth,Dead,166.0,68.0,,157.0,Yes,No,Yes,0.0,1.0,166.0,166.0,IVA,hnsc
+TCGA-CV-6937,Stage II,624.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,624.0,71.0,,,No,No,No,0.0,1.0,624.0,624.0,II,hnsc
+TCGA-CV-6938,Stage II,144.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,144.0,87.0,,,No,No,No,0.0,1.0,144.0,144.0,II,hnsc
+TCGA-CV-6939,Stage IVA,666.0,CV,Other and unspecified parts of tongue,Dead,666.0,60.0,,,No,No,No,0.0,1.0,666.0,666.0,IVA,hnsc
+TCGA-CV-6940,Stage III,804.0,CV,Other and unspecified parts of mouth,Dead,804.0,80.0,,,No,No,No,0.0,1.0,804.0,804.0,III,hnsc
+TCGA-CV-6941,Stage III,342.0,CV,Other and unspecified parts of tongue,Dead,342.0,51.0,,,No,No,No,0.0,1.0,342.0,342.0,III,hnsc
+TCGA-CV-6942,Stage II,4282.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,73.0,,,No,No,No,1.0,1.0,4282.0,4282.0,II,hnsc
+TCGA-CV-6943,Stage III,602.0,CV,Base of tongue,Dead,602.0,74.0,,,No,No,No,0.0,1.0,602.0,602.0,III,hnsc
+TCGA-CV-6945,Stage IVA,366.0,CV,Other and unspecified parts of tongue,Dead,366.0,41.0,,,No,No,No,0.0,1.0,366.0,366.0,IVA,hnsc
+TCGA-CV-6948,Stage IVB,1289.0,CV,Floor of mouth,Dead,1289.0,79.0,,,No,No,No,0.0,1.0,1289.0,1289.0,IVB,hnsc
+TCGA-CV-6950,Stage IVA,459.0,CV,Base of tongue,Dead,459.0,64.0,,258.0,Yes,No,Yes,0.0,1.0,459.0,459.0,IVA,hnsc
+TCGA-CV-6951,Stage IVA,915.0,CV,Other and unspecified parts of tongue,Dead,915.0,57.0,,,No,No,No,0.0,1.0,915.0,915.0,IVA,hnsc
+TCGA-CV-6952,Stage IVA,185.0,CV,Other and unspecified parts of tongue,Dead,185.0,65.0,,,No,No,No,0.0,1.0,185.0,185.0,IVA,hnsc
+TCGA-CV-6953,Stage III,1641.0,CV,Floor of mouth,Dead,1641.0,80.0,,1521.0,Yes,No,Yes,0.0,1.0,1641.0,1641.0,III,hnsc
+TCGA-CV-6954,Stage IVA,2002.0,CV,Other and unspecified parts of tongue,Dead,2002.0,59.0,,,No,No,No,0.0,1.0,2002.0,2002.0,IVA,hnsc
+TCGA-CV-6955,Stage II,334.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,334.0,74.0,,,No,No,No,0.0,1.0,334.0,334.0,II,hnsc
+TCGA-CV-6956,Stage III,217.0,CV,Other and unspecified parts of tongue,Dead,217.0,67.0,,,No,No,No,0.0,1.0,217.0,217.0,III,hnsc
+TCGA-CV-6959,Stage III,256.0,CV,Other and unspecified parts of tongue,Dead,256.0,48.0,,103.0,Yes,No,Yes,0.0,1.0,256.0,256.0,III,hnsc
+TCGA-CV-6960,Stage III,862.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,862.0,49.0,,,No,No,No,0.0,1.0,862.0,862.0,III,hnsc
+TCGA-CV-6961,Stage II,76.0,CV,Other and unspecified parts of tongue,Dead,76.0,61.0,,,No,No,No,0.0,1.0,76.0,76.0,II,hnsc
+TCGA-CV-6962,Stage IVA,126.0,CV,Larynx,Dead,126.0,65.0,,,No,No,No,0.0,1.0,126.0,126.0,IVA,hnsc
+TCGA-CV-7089,Stage IVA,1972.0,CV,Larynx,Dead,1972.0,74.0,,,No,No,No,0.0,1.0,1972.0,1972.0,IVA,hnsc
+TCGA-CV-7090,Stage II,5252.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,39.0,,,No,No,No,1.0,1.0,5252.0,5252.0,II,hnsc
+TCGA-CV-7091,Stage I,3381.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,54.0,,,No,No,No,1.0,1.0,3381.0,3381.0,I,hnsc
+TCGA-CV-7095,Stage II,572.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,572.0,87.0,,,No,No,No,0.0,1.0,572.0,572.0,II,hnsc
+TCGA-CV-7097,Stage II,385.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,385.0,53.0,,,No,No,No,0.0,1.0,385.0,385.0,II,hnsc
+TCGA-CV-7099,Stage II,243.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,243.0,85.0,,,No,No,No,0.0,1.0,243.0,243.0,II,hnsc
+TCGA-CV-7100,Stage III,274.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,274.0,66.0,,,No,No,No,0.0,1.0,274.0,274.0,III,hnsc
+TCGA-CV-7101,Stage II,160.0,CV,Larynx,Dead,160.0,80.0,,,No,No,No,0.0,1.0,160.0,160.0,II,hnsc
+TCGA-CV-7102,Stage IVA,56.0,CV,Floor of mouth,Dead,56.0,76.0,,,No,No,No,0.0,1.0,56.0,56.0,IVA,hnsc
+TCGA-CV-7103,Stage IVA,1591.0,CV,Other and unspecified parts of tongue,Dead,1591.0,49.0,,,No,No,No,0.0,1.0,1591.0,1591.0,IVA,hnsc
+TCGA-CV-7104,Stage IVA,393.0,CV,Other and unspecified parts of tongue,Dead,393.0,61.0,,,No,No,No,0.0,1.0,393.0,393.0,IVA,hnsc
+TCGA-CV-7177,Stage II,663.0,CV,Larynx,Dead,663.0,82.0,,,No,No,No,0.0,1.0,663.0,663.0,II,hnsc
+TCGA-CV-7178,Stage IVA,2166.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,2166.0,64.0,,,No,No,No,0.0,1.0,2166.0,2166.0,IVA,hnsc
+TCGA-CV-7180,Stage II,327.0,CV,Other and unspecified parts of tongue,Dead,327.0,34.0,,,No,No,No,0.0,1.0,327.0,327.0,II,hnsc
+TCGA-CV-7183,Stage II,3981.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,52.0,,,No,No,No,1.0,1.0,3981.0,3981.0,II,hnsc
+TCGA-CV-7235,Stage II,2347.0,CV,Floor of mouth,Alive,,67.0,,,No,No,No,1.0,1.0,2347.0,2347.0,II,hnsc
+TCGA-CV-7236,Stage IVA,144.0,CV,Other and unspecified parts of tongue,Dead,144.0,77.0,,,No,No,No,0.0,1.0,144.0,144.0,IVA,hnsc
+TCGA-CV-7238,Stage II,2727.0,CV,Other and unspecified parts of tongue,Alive,,69.0,,,No,No,No,1.0,1.0,2727.0,2727.0,II,hnsc
+TCGA-CV-7242,Stage II,1095.0,CV,Larynx,Alive,,60.0,,,No,No,No,1.0,1.0,1095.0,1095.0,II,hnsc
+TCGA-CV-7243,Stage III,954.0,CV,Other and unspecified parts of tongue,Alive,,50.0,,,No,No,No,1.0,1.0,954.0,954.0,III,hnsc
+TCGA-CV-7245,Stage IVA,797.0,CV,Larynx,Alive,,62.0,,,No,No,No,1.0,1.0,797.0,797.0,IVA,hnsc
+TCGA-CV-7247,Stage III,577.0,CV,Larynx,Dead,577.0,55.0,,,No,No,No,0.0,1.0,577.0,577.0,III,hnsc
+TCGA-CV-7248,Stage IVA,521.0,CV,Larynx,Dead,521.0,63.0,,,No,No,No,0.0,1.0,521.0,521.0,IVA,hnsc
+TCGA-CV-7250,Stage IVA,2900.0,CV,Larynx,Dead,2900.0,64.0,111.0,,Yes,Yes,No,0.0,0.0,2900.0,111.0,IVA,hnsc
+TCGA-CV-7252,Stage IVA,151.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,151.0,62.0,,,No,No,No,0.0,1.0,151.0,151.0,IVA,hnsc
+TCGA-CV-7253,Stage IVA,361.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,361.0,58.0,,,No,No,No,0.0,1.0,361.0,361.0,IVA,hnsc
+TCGA-CV-7254,Stage II,1459.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,1459.0,55.0,,,No,No,No,0.0,1.0,1459.0,1459.0,II,hnsc
+TCGA-CV-7255,Stage IVA,64.0,CV,Other and unspecified parts of tongue,Dead,64.0,32.0,,,No,No,No,0.0,1.0,64.0,64.0,IVA,hnsc
+TCGA-CV-7261,Stage IVA,1512.0,CV,Larynx,Alive,,57.0,,,No,No,No,1.0,1.0,1512.0,1512.0,IVA,hnsc
+TCGA-CV-7263,Stage II,560.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,560.0,64.0,,,No,No,No,0.0,1.0,560.0,560.0,II,hnsc
+TCGA-CV-7406,Stage II,1748.0,CV,Base of tongue,Dead,1748.0,49.0,,,No,No,No,0.0,1.0,1748.0,1748.0,II,hnsc
+TCGA-CV-7407,Stage II,1081.0,CV,Floor of mouth,Dead,1081.0,67.0,,,No,No,No,0.0,1.0,1081.0,1081.0,II,hnsc
+TCGA-CV-7409,Stage IVB,543.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,543.0,43.0,,,No,No,No,0.0,1.0,543.0,543.0,IVB,hnsc
+TCGA-CV-7410,Stage III,6417.0,CV,Larynx,Dead,6417.0,61.0,,,No,No,No,0.0,1.0,6417.0,6417.0,III,hnsc
+TCGA-CV-7411,Stage IVA,2717.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,2717.0,64.0,,,No,No,No,0.0,1.0,2717.0,2717.0,IVA,hnsc
+TCGA-CV-7413,Stage II,294.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,294.0,74.0,,,No,No,No,0.0,1.0,294.0,294.0,II,hnsc
+TCGA-CV-7414,Stage IVA,14.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,14.0,78.0,,,No,No,No,0.0,1.0,14.0,14.0,IVA,hnsc
+TCGA-CV-7415,Stage IVA,695.0,CV,Larynx,Dead,695.0,60.0,,,No,No,No,0.0,1.0,695.0,695.0,IVA,hnsc
+TCGA-CV-7416,Stage IVA,763.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,763.0,29.0,,,No,No,No,0.0,1.0,763.0,763.0,IVA,hnsc
+TCGA-CV-7418,Stage IVA,789.0,CV,Larynx,Dead,789.0,62.0,,494.0,Yes,No,Yes,0.0,1.0,789.0,789.0,IVA,hnsc
+TCGA-CV-7421,Stage IVA,2.0,CV,Larynx,Dead,2.0,76.0,,,No,No,No,0.0,1.0,2.0,2.0,IVA,hnsc
+TCGA-CV-7422,Stage IVA,1037.0,CV,Larynx,Dead,1037.0,60.0,,733.0,Yes,No,Yes,0.0,1.0,1037.0,1037.0,IVA,hnsc
+TCGA-CV-7423,Stage II,3059.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,3059.0,65.0,,,No,No,No,0.0,1.0,3059.0,3059.0,II,hnsc
+TCGA-CV-7424,Stage IVA,453.0,CV,Larynx,Dead,453.0,67.0,,,No,No,No,0.0,1.0,453.0,453.0,IVA,hnsc
+TCGA-CV-7425,Stage III,1718.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,1718.0,77.0,,,No,No,No,0.0,1.0,1718.0,1718.0,III,hnsc
+TCGA-CV-7427,Stage II,4760.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,4760.0,73.0,,3282.0,Yes,No,Yes,0.0,1.0,4760.0,4760.0,II,hnsc
+TCGA-CV-7428,Stage IVA,1671.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,1671.0,47.0,,,No,No,No,0.0,1.0,1671.0,1671.0,IVA,hnsc
+TCGA-CV-7429,Stage IVA,107.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,107.0,55.0,,,No,No,No,0.0,1.0,107.0,107.0,IVA,hnsc
+TCGA-CV-7430,Stage IVA,495.0,CV,Larynx,Dead,495.0,56.0,,,No,No,No,0.0,1.0,495.0,495.0,IVA,hnsc
+TCGA-CV-7432,Stage II,2570.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,2570.0,79.0,,,No,No,No,0.0,1.0,2570.0,2570.0,II,hnsc
+TCGA-CV-7433,Stage IVA,601.0,CV,Larynx,Dead,601.0,49.0,445.0,,Yes,Yes,No,0.0,0.0,601.0,445.0,IVA,hnsc
+TCGA-CV-7434,Stage IVA,218.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,218.0,64.0,,,No,No,No,0.0,1.0,218.0,218.0,IVA,hnsc
+TCGA-CV-7435,Stage IVA,4680.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,4680.0,57.0,,,No,No,No,0.0,1.0,4680.0,4680.0,IVA,hnsc
+TCGA-CV-7437,Stage II,506.0,CV,Larynx,Dead,506.0,77.0,,,No,No,No,0.0,1.0,506.0,506.0,II,hnsc
+TCGA-CV-7438,Stage I,194.0,CV,Other and unspecified parts of tongue,Dead,194.0,87.0,,,No,No,No,0.0,1.0,194.0,194.0,I,hnsc
+TCGA-CV-7440,Stage II,675.0,CV,Larynx,Dead,675.0,38.0,,,No,No,No,0.0,1.0,675.0,675.0,II,hnsc
+TCGA-CV-7446,Stage IVA,1093.0,CV,Other and unspecified parts of tongue,Dead,1093.0,66.0,,,No,No,No,0.0,1.0,1093.0,1093.0,IVA,hnsc
+TCGA-CV-7568,Stage IVA,927.0,CV,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,927.0,48.0,,,No,No,No,0.0,1.0,927.0,927.0,IVA,hnsc
+TCGA-CV-A45P,Stage I,639.0,CV,Other and unspecified parts of tongue,Alive,,82.0,,639.0,Yes,No,Yes,1.0,1.0,639.0,639.0,I,hnsc
+TCGA-CV-A45R,Stage III,5480.0,CV,Other and unspecified parts of tongue,Alive,,46.0,,,No,No,No,1.0,1.0,5480.0,5480.0,III,hnsc
+TCGA-CV-A45U,Stage IVA,1079.0,CV,Other and unspecified parts of mouth,Dead,1079.0,59.0,1064.0,,Yes,Yes,No,0.0,0.0,1079.0,1064.0,IVA,hnsc
+TCGA-CV-A45V,Stage IVA,32.0,CV,Other and unspecified parts of mouth,Dead,32.0,87.0,,,No,No,No,0.0,1.0,32.0,32.0,IVA,hnsc
+TCGA-CV-A45W,Stage II,1398.0,CV,Larynx,Dead,1398.0,75.0,,,No,No,No,0.0,1.0,1398.0,1398.0,II,hnsc
+TCGA-CV-A45X,Stage IVA,198.0,CV,Floor of mouth,Dead,198.0,47.0,,,No,No,No,0.0,1.0,198.0,198.0,IVA,hnsc
+TCGA-CV-A45Y,Stage IVA,2703.0,CV,Larynx,Dead,2703.0,61.0,2318.0,,Yes,Yes,No,0.0,0.0,2703.0,2318.0,IVA,hnsc
+TCGA-CV-A463,Stage IVA,23.0,CV,Floor of mouth,Dead,23.0,82.0,,,No,No,No,0.0,1.0,23.0,23.0,IVA,hnsc
+TCGA-CV-A464,Stage III,1722.0,CV,Other and unspecified parts of mouth,Alive,,48.0,,28.0,Yes,No,Yes,1.0,1.0,1722.0,1722.0,III,hnsc
+TCGA-CV-A465,Stage III,215.0,CV,Other and unspecified parts of tongue,Dead,215.0,24.0,,,No,No,No,0.0,1.0,215.0,215.0,III,hnsc
+TCGA-CV-A468,Stage IVA,464.0,CV,Lip,Dead,464.0,42.0,,,No,No,No,0.0,1.0,464.0,464.0,IVA,hnsc
+TCGA-CV-A6JO,Stage IVA,197.0,CV,Other and unspecified parts of tongue,Dead,197.0,69.0,,127.0,Yes,No,Yes,0.0,1.0,197.0,197.0,IVA,hnsc
+TCGA-CV-A6JT,Stage II,852.0,CV,Other and unspecified parts of tongue,Alive,,65.0,,,No,No,No,1.0,1.0,852.0,852.0,II,hnsc
+TCGA-CV-A6JU,Stage IVB,110.0,CV,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,110.0,110.0,IVB,hnsc
+TCGA-CV-A6JY,Stage IVA,646.0,CV,Other and unspecified parts of mouth,Alive,,69.0,,,No,No,No,1.0,1.0,646.0,646.0,IVA,hnsc
+TCGA-CV-A6JZ,Stage II,714.0,CV,Other and unspecified parts of mouth,Alive,,68.0,,393.0,Yes,No,Yes,1.0,1.0,714.0,714.0,II,hnsc
+TCGA-CV-A6K0,Stage I,606.0,CV,Other and unspecified parts of tongue,Alive,,58.0,,146.0,Yes,No,Yes,1.0,1.0,606.0,606.0,I,hnsc
+TCGA-CV-A6K1,Stage IVA,685.0,CV,Larynx,Alive,,65.0,,,No,No,No,1.0,1.0,685.0,685.0,IVA,hnsc
+TCGA-CV-A6K2,Stage IVA,317.0,CV,Other and unspecified parts of mouth,Dead,317.0,79.0,,134.0,Yes,No,Yes,0.0,1.0,317.0,317.0,IVA,hnsc
+TCGA-CX-7082,Stage IVA,11.0,CX,"Other and ill-defined sites in lip, oral cavity and pharynx",Dead,11.0,82.0,,,No,No,No,0.0,1.0,11.0,11.0,IVA,hnsc
+TCGA-CX-7085,Stage I,321.0,CX,Other and unspecified parts of tongue,Alive,,77.0,,92.0,Yes,No,Yes,1.0,1.0,321.0,321.0,I,hnsc
+TCGA-CX-7086,Stage III,573.0,CX,Floor of mouth,Alive,,53.0,,,No,No,No,1.0,1.0,573.0,573.0,III,hnsc
+TCGA-CX-7219,Stage IVA,1045.0,CX,Floor of mouth,Alive,,47.0,,,No,No,No,1.0,1.0,1045.0,1045.0,IVA,hnsc
+TCGA-CX-A4AQ,Stage IVA,1555.0,CX,Floor of mouth,Alive,,56.0,,,No,No,No,1.0,1.0,1555.0,1555.0,IVA,hnsc
+TCGA-D6-6515,Stage II,403.0,D6,Other and unspecified parts of tongue,Dead,403.0,82.0,,195.0,Yes,No,Yes,0.0,1.0,403.0,403.0,II,hnsc
+TCGA-D6-6516,Stage I,773.0,D6,Lip,Alive,,69.0,,,No,No,No,1.0,1.0,773.0,773.0,I,hnsc
+TCGA-D6-6517,Stage III,292.0,D6,Larynx,Alive,,59.0,161.0,161.0,Yes,Yes,Yes,1.0,0.0,292.0,161.0,III,hnsc
+TCGA-D6-6823,Stage II,701.0,D6,Other and unspecified parts of tongue,Alive,,50.0,,,No,No,No,1.0,1.0,701.0,701.0,II,hnsc
+TCGA-D6-6824,Stage IVA,77.0,D6,Larynx,Alive,,61.0,,,No,No,No,1.0,1.0,77.0,77.0,IVA,hnsc
+TCGA-D6-6825,Stage I,491.0,D6,Other and unspecified parts of tongue,Alive,,73.0,,,No,No,No,1.0,1.0,491.0,491.0,I,hnsc
+TCGA-D6-6826,Stage IVA,348.0,D6,Larynx,Dead,348.0,64.0,,,No,No,No,0.0,1.0,348.0,348.0,IVA,hnsc
+TCGA-D6-6827,Stage I,568.0,D6,Lip,Alive,,55.0,,,No,No,No,1.0,1.0,568.0,568.0,I,hnsc
+TCGA-D6-8568,Stage II,759.0,D6,Larynx,Alive,,62.0,,,No,No,No,1.0,1.0,759.0,759.0,II,hnsc
+TCGA-D6-8569,Stage II,770.0,D6,Other and unspecified parts of tongue,Alive,,52.0,,,No,No,No,1.0,1.0,770.0,770.0,II,hnsc
+TCGA-D6-A4Z9,Stage IVA,539.0,D6,Other and unspecified parts of tongue,Alive,,59.0,,,No,No,No,1.0,1.0,539.0,539.0,IVA,hnsc
+TCGA-D6-A4ZB,Stage III,376.0,D6,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,376.0,376.0,III,hnsc
+TCGA-D6-A6EK,Stage III,875.0,D6,Larynx,Alive,,67.0,,,No,No,No,1.0,1.0,875.0,875.0,III,hnsc
+TCGA-D6-A6EM,Stage III,232.0,D6,Other and unspecified parts of mouth,Alive,,65.0,,232.0,Yes,No,Yes,1.0,1.0,232.0,232.0,III,hnsc
+TCGA-D6-A6EN,Stage III,687.0,D6,Other and unspecified parts of mouth,Alive,,71.0,,,No,No,No,1.0,1.0,687.0,687.0,III,hnsc
+TCGA-D6-A6EO,Stage IVA,759.0,D6,Floor of mouth,Alive,,44.0,,,No,No,No,1.0,1.0,759.0,759.0,IVA,hnsc
+TCGA-D6-A6EP,Stage III,424.0,D6,Hypopharynx,Alive,,62.0,,,No,No,No,1.0,1.0,424.0,424.0,III,hnsc
+TCGA-D6-A6EQ,Stage IVA,368.0,D6,Larynx,Alive,,57.0,,,No,No,No,1.0,1.0,368.0,368.0,IVA,hnsc
+TCGA-D6-A6ES,Stage IVA,389.0,D6,Larynx,Alive,,50.0,,,No,No,No,1.0,1.0,389.0,389.0,IVA,hnsc
+TCGA-D6-A74Q,Stage IVA,710.0,D6,Larynx,Alive,,67.0,,,No,No,No,1.0,1.0,710.0,710.0,IVA,hnsc
+TCGA-F7-7848,Stage IVA,1131.0,F7,Larynx,Alive,,47.0,,,No,No,No,1.0,1.0,1131.0,1131.0,IVA,hnsc
+TCGA-F7-8298,Stage I,995.0,F7,Larynx,Alive,,58.0,,,No,No,No,1.0,1.0,995.0,995.0,I,hnsc
+TCGA-F7-8489,Stage II,658.0,F7,Floor of mouth,Alive,,48.0,,,No,No,No,1.0,1.0,658.0,658.0,II,hnsc
+TCGA-F7-A50G,Stage III,616.0,F7,Other and unspecified parts of tongue,Alive,,66.0,,,No,No,No,1.0,1.0,616.0,616.0,III,hnsc
+TCGA-F7-A50I,Stage IVA,92.0,F7,Larynx,Alive,,72.0,,,No,No,No,1.0,1.0,92.0,92.0,IVA,hnsc
+TCGA-F7-A50J,Stage III,947.0,F7,Other and unspecified parts of tongue,Alive,,67.0,,,No,No,No,1.0,1.0,947.0,947.0,III,hnsc
+TCGA-F7-A61S,Stage III,576.0,F7,Other and unspecified parts of tongue,Alive,,62.0,,213.0,Yes,No,Yes,1.0,1.0,576.0,576.0,III,hnsc
+TCGA-F7-A61V,Stage II,759.0,F7,Base of tongue,Alive,,54.0,,,No,No,No,1.0,1.0,759.0,759.0,II,hnsc
+TCGA-F7-A61W,Stage IVA,14.0,F7,Other and unspecified parts of tongue,Alive,,51.0,,,No,No,No,1.0,1.0,14.0,14.0,IVA,hnsc
+TCGA-F7-A620,Stage III,543.0,F7,Base of tongue,Alive,,47.0,,,No,No,No,1.0,1.0,543.0,543.0,III,hnsc
+TCGA-F7-A623,Stage IVA,616.0,F7,Larynx,Alive,,70.0,,,No,No,No,1.0,1.0,616.0,616.0,IVA,hnsc
+TCGA-F7-A624,Stage II,378.0,F7,Other and unspecified parts of mouth,Alive,,73.0,,,No,No,No,1.0,1.0,378.0,378.0,II,hnsc
+TCGA-H7-7774,Stage IVA,407.0,H7,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,75.0,,,No,No,No,1.0,1.0,407.0,407.0,IVA,hnsc
+TCGA-H7-8501,Stage IVA,461.0,H7,Other and unspecified parts of mouth,Alive,,54.0,,,No,No,No,1.0,1.0,461.0,461.0,IVA,hnsc
+TCGA-H7-8502,Stage IVA,458.0,H7,Other and unspecified parts of mouth,Alive,,50.0,,,No,No,No,1.0,1.0,458.0,458.0,IVA,hnsc
+TCGA-H7-A6C5,Stage II,642.0,H7,Larynx,Alive,,65.0,,,No,No,No,1.0,1.0,642.0,642.0,II,hnsc
+TCGA-HD-7229,Stage IVA,1027.0,HD,Larynx,Alive,,60.0,,162.0,Yes,No,Yes,1.0,1.0,1027.0,1027.0,IVA,hnsc
+TCGA-HD-7753,Stage I,866.0,HD,Oropharynx,Alive,,62.0,,,No,No,No,1.0,1.0,866.0,866.0,I,hnsc
+TCGA-HD-7754,Stage IVA,783.0,HD,Oropharynx,Alive,,69.0,,,No,No,No,1.0,1.0,783.0,783.0,IVA,hnsc
+TCGA-HD-7831,Stage IVA,667.0,HD,Other and unspecified parts of tongue,Alive,,74.0,667.0,,Yes,Yes,No,1.0,0.0,667.0,667.0,IVA,hnsc
+TCGA-HD-7832,Stage IVA,836.0,HD,Floor of mouth,Alive,,52.0,,,No,No,No,1.0,1.0,836.0,836.0,IVA,hnsc
+TCGA-HD-7917,Stage II,836.0,HD,Floor of mouth,Dead,836.0,62.0,,,No,No,No,0.0,1.0,836.0,836.0,II,hnsc
+TCGA-HD-8224,Stage IVA,446.0,HD,Base of tongue,Dead,446.0,63.0,171.0,,Yes,Yes,No,0.0,0.0,446.0,171.0,IVA,hnsc
+TCGA-HD-8314,Stage III,670.0,HD,Base of tongue,Alive,,58.0,,,No,No,No,1.0,1.0,670.0,670.0,III,hnsc
+TCGA-HD-8634,Stage I,385.0,HD,Other and unspecified parts of tongue,Dead,385.0,51.0,,,No,No,No,0.0,1.0,385.0,385.0,I,hnsc
+TCGA-HD-8635,Stage III,695.0,HD,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,695.0,695.0,III,hnsc
+TCGA-HD-A4C1,Stage IVA,11.0,HD,Other and unspecified parts of mouth,Alive,,41.0,,,No,No,No,1.0,1.0,11.0,11.0,IVA,hnsc
+TCGA-HD-A633,Stage IVA,421.0,HD,Other and unspecified parts of mouth,Alive,,74.0,,419.0,Yes,No,Yes,1.0,1.0,421.0,421.0,IVA,hnsc
+TCGA-HD-A634,Stage IVA,130.0,HD,Tonsil,Dead,130.0,56.0,,,No,No,No,0.0,1.0,130.0,130.0,IVA,hnsc
+TCGA-HD-A6HZ,Stage III,111.0,HD,Other and unspecified parts of tongue,Alive,,79.0,,,No,No,No,1.0,1.0,111.0,111.0,III,hnsc
+TCGA-HD-A6I0,Stage IVA,210.0,HD,Other and unspecified parts of mouth,Alive,,56.0,,,No,No,No,1.0,1.0,210.0,210.0,IVA,hnsc
+TCGA-IQ-7630,Stage II,485.0,IQ,Oropharynx,Alive,,49.0,,,No,No,No,1.0,1.0,485.0,485.0,II,hnsc
+TCGA-IQ-7631,Stage II,1172.0,IQ,Other and unspecified parts of mouth,Alive,,60.0,,,No,No,No,1.0,1.0,1172.0,1172.0,II,hnsc
+TCGA-IQ-7632,Stage IVA,441.0,IQ,"Other and ill-defined sites in lip, oral cavity and pharynx",Alive,,68.0,,,No,No,No,1.0,1.0,441.0,441.0,IVA,hnsc
+TCGA-IQ-A61E,Stage III,1147.0,IQ,Other and unspecified parts of tongue,Alive,,55.0,,,No,No,No,1.0,1.0,1147.0,1147.0,III,hnsc
+TCGA-IQ-A61G,Stage IVA,360.0,IQ,Floor of mouth,Alive,,57.0,,249.0,Yes,No,Yes,1.0,1.0,360.0,360.0,IVA,hnsc
+TCGA-IQ-A61H,Stage II,1138.0,IQ,Other and unspecified parts of tongue,Alive,,76.0,,,No,No,No,1.0,1.0,1138.0,1138.0,II,hnsc
+TCGA-IQ-A61I,Stage IVA,2.0,IQ,Tonsil,Dead,2.0,63.0,,,No,No,No,0.0,1.0,2.0,2.0,IVA,hnsc
+TCGA-IQ-A61J,Stage IVA,1021.0,IQ,Other and unspecified parts of tongue,Alive,,54.0,,,No,No,No,1.0,1.0,1021.0,1021.0,IVA,hnsc
+TCGA-IQ-A61K,Stage IVA,161.0,IQ,Other and unspecified parts of tongue,Dead,161.0,70.0,,,No,No,No,0.0,1.0,161.0,161.0,IVA,hnsc
+TCGA-IQ-A61L,Stage II,416.0,IQ,Other and unspecified parts of tongue,Alive,,72.0,,156.0,Yes,No,Yes,1.0,1.0,416.0,416.0,II,hnsc
+TCGA-IQ-A61O,Stage IVA,421.0,IQ,Base of tongue,Dead,421.0,43.0,,,No,No,No,0.0,1.0,421.0,421.0,IVA,hnsc
+TCGA-IQ-A6SG,Stage III,579.0,IQ,Other and unspecified parts of tongue,Alive,,61.0,,,No,No,No,1.0,1.0,579.0,579.0,III,hnsc
+TCGA-IQ-A6SH,Stage III,471.0,IQ,Other and unspecified parts of tongue,Alive,,55.0,,,No,No,No,1.0,1.0,471.0,471.0,III,hnsc
+TCGA-KU-A66S,Stage III,406.0,KU,Larynx,Dead,406.0,69.0,389.0,,Yes,Yes,No,0.0,0.0,406.0,389.0,III,hnsc
+TCGA-KU-A66T,Stage IVA,552.0,KU,Floor of mouth,Alive,,53.0,,552.0,Yes,No,Yes,1.0,1.0,552.0,552.0,IVA,hnsc
+TCGA-KU-A6H7,Stage IVA,586.0,KU,Tonsil,Alive,,55.0,,,No,No,No,1.0,1.0,586.0,586.0,IVA,hnsc
+TCGA-KU-A6H8,Stage IVA,327.0,KU,Other and unspecified parts of tongue,Dead,327.0,41.0,,110.0,Yes,No,Yes,0.0,1.0,327.0,327.0,IVA,hnsc
+TCGA-MT-A51W,Stage I,437.0,MT,Other and unspecified parts of tongue,Alive,,52.0,,,No,No,No,1.0,1.0,437.0,437.0,I,hnsc
+TCGA-MT-A51X,Stage IVA,242.0,MT,Other and unspecified parts of tongue,Alive,,30.0,,,No,No,No,1.0,1.0,242.0,242.0,IVA,hnsc
+TCGA-MT-A67A,Stage I,914.0,MT,Other and unspecified parts of tongue,Alive,,85.0,,,No,No,No,1.0,1.0,914.0,914.0,I,hnsc
+TCGA-MT-A67D,Stage II,56.0,MT,Floor of mouth,Alive,,55.0,,,No,No,No,1.0,1.0,56.0,56.0,II,hnsc
+TCGA-MT-A67F,Stage IVA,384.0,MT,Other and unspecified parts of mouth,Alive,,60.0,,,No,No,No,1.0,1.0,384.0,384.0,IVA,hnsc
+TCGA-MT-A67G,Stage IVA,190.0,MT,Tonsil,Alive,,53.0,,,No,No,No,1.0,1.0,190.0,190.0,IVA,hnsc
+TCGA-MT-A7BN,Stage IVA,469.0,MT,Floor of mouth,Alive,,74.0,179.0,,Yes,Yes,No,1.0,0.0,469.0,179.0,IVA,hnsc
+TCGA-MZ-A7D7,Stage IVA,547.0,MZ,Base of tongue,Alive,,51.0,339.0,,Yes,Yes,No,1.0,0.0,547.0,339.0,IVA,hnsc
+TCGA-P3-A5Q5,Stage IVA,910.0,P3,Tonsil,Alive,,54.0,,,No,No,No,1.0,1.0,910.0,910.0,IVA,hnsc
+TCGA-P3-A5Q6,Stage IVA,480.0,P3,Tonsil,Dead,480.0,49.0,280.0,,Yes,Yes,No,0.0,0.0,480.0,280.0,IVA,hnsc
+TCGA-P3-A5QA,Stage I,2182.0,P3,Other and unspecified parts of tongue,Alive,,41.0,,1601.0,Yes,No,Yes,1.0,1.0,2182.0,2182.0,I,hnsc
+TCGA-P3-A5QE,Stage III,1559.0,P3,Base of tongue,Alive,,49.0,,,No,No,No,1.0,1.0,1559.0,1559.0,III,hnsc
+TCGA-P3-A5QF,Stage IVA,330.0,P3,Gum,Dead,330.0,49.0,140.0,,Yes,Yes,No,0.0,0.0,330.0,140.0,IVA,hnsc
+TCGA-P3-A6SW,Stage IVB,1120.0,P3,Tonsil,Alive,,50.0,,,No,No,No,1.0,1.0,1120.0,1120.0,IVB,hnsc
+TCGA-P3-A6SX,Stage III,1430.0,P3,Tonsil,Dead,1430.0,67.0,,,No,No,No,0.0,1.0,1430.0,1430.0,III,hnsc
+TCGA-P3-A6T0,Stage IVA,578.0,P3,Floor of mouth,Alive,,47.0,,365.0,Yes,No,Yes,1.0,1.0,578.0,578.0,IVA,hnsc
+TCGA-P3-A6T2,Stage IVA,2298.0,P3,Other and unspecified parts of mouth,Alive,,45.0,,,No,No,No,1.0,1.0,2298.0,2298.0,IVA,hnsc
+TCGA-P3-A6T3,Stage IVA,577.0,P3,Other and unspecified parts of mouth,Dead,577.0,49.0,242.0,,Yes,Yes,No,0.0,0.0,577.0,242.0,IVA,hnsc
+TCGA-P3-A6T4,Stage IVA,62.0,P3,Floor of mouth,Dead,62.0,54.0,,,No,No,No,0.0,1.0,62.0,62.0,IVA,hnsc
+TCGA-P3-A6T5,Stage IVA,882.0,P3,Gum,Dead,882.0,79.0,,577.0,Yes,No,Yes,0.0,1.0,882.0,882.0,IVA,hnsc
+TCGA-P3-A6T6,Stage IVA,395.0,P3,Gum,Dead,395.0,53.0,273.0,273.0,Yes,Yes,Yes,0.0,0.0,395.0,273.0,IVA,hnsc
+TCGA-P3-A6T7,Stage IVA,487.0,P3,Floor of mouth,Dead,487.0,55.0,,,No,No,No,0.0,1.0,487.0,487.0,IVA,hnsc
+TCGA-P3-A6T8,Stage IVA,400.0,P3,Floor of mouth,Alive,,54.0,,,No,No,No,1.0,1.0,400.0,400.0,IVA,hnsc
+TCGA-QK-A64Z,Stage IVA,641.0,QK,Floor of mouth,Dead,641.0,79.0,,553.0,Yes,No,Yes,0.0,1.0,641.0,641.0,IVA,hnsc
+TCGA-QK-A652,Stage III,645.0,QK,Other and unspecified parts of tongue,Alive,,60.0,,,No,No,No,1.0,1.0,645.0,645.0,III,hnsc
+TCGA-QK-A6IG,Stage III,222.0,QK,Other and unspecified parts of mouth,Dead,222.0,69.0,,142.0,Yes,No,Yes,0.0,1.0,222.0,222.0,III,hnsc
+TCGA-QK-A6IH,Stage IVB,653.0,QK,Gum,Alive,,65.0,228.0,,Yes,Yes,No,1.0,0.0,653.0,228.0,IVB,hnsc
+TCGA-QK-A6II,Stage IVA,284.0,QK,Floor of mouth,Dead,284.0,52.0,,176.0,Yes,No,Yes,0.0,1.0,284.0,284.0,IVA,hnsc
+TCGA-QK-A6IJ,Stage III,387.0,QK,Floor of mouth,Alive,,71.0,,,No,No,No,1.0,1.0,387.0,387.0,III,hnsc
+TCGA-QK-A6V9,Stage II,833.0,QK,Oropharynx,Alive,,56.0,,,No,No,No,1.0,1.0,833.0,833.0,II,hnsc
+TCGA-QK-A6VB,Stage IVA,641.0,QK,Floor of mouth,Alive,,66.0,,,No,No,No,1.0,1.0,641.0,641.0,IVA,hnsc
+TCGA-QK-A6VC,Stage IVA,600.0,QK,Hypopharynx,Alive,,62.0,,,No,No,No,1.0,1.0,600.0,600.0,IVA,hnsc
+TCGA-QK-A8Z7,Stage IVA,392.0,QK,Floor of mouth,Alive,,59.0,,,No,No,No,1.0,1.0,392.0,392.0,IVA,hnsc
+TCGA-QK-A8Z8,Stage IVC,171.0,QK,Larynx,Dead,171.0,60.0,,,No,No,No,0.0,1.0,171.0,171.0,IVC,hnsc
+TCGA-QK-A8Z9,Stage IVA,449.0,QK,Floor of mouth,Dead,449.0,56.0,205.0,,Yes,Yes,No,0.0,0.0,449.0,205.0,IVA,hnsc
+TCGA-QK-A8ZB,Stage IVA,542.0,QK,Larynx,Alive,,68.0,,,No,No,No,1.0,1.0,542.0,542.0,IVA,hnsc
+TCGA-QK-AA3J,Stage I,466.0,QK,Larynx,Alive,,69.0,,,No,No,No,1.0,1.0,466.0,466.0,I,hnsc
+TCGA-QK-AA3K,Stage IVA,253.0,QK,Other and unspecified parts of tongue,Alive,,60.0,,,No,No,No,1.0,1.0,253.0,253.0,IVA,hnsc
+TCGA-RS-A6TO,Stage IVA,387.0,RS,Other and unspecified parts of mouth,Dead,387.0,82.0,,338.0,Yes,No,Yes,0.0,1.0,387.0,387.0,IVA,hnsc
+TCGA-RS-A6TP,Stage II,516.0,RS,Tonsil,Alive,,58.0,,,No,No,No,1.0,1.0,516.0,516.0,II,hnsc
+TCGA-T2-A6X2,Stage III,987.0,T2,Gum,Alive,,82.0,,,No,No,No,1.0,1.0,987.0,987.0,III,hnsc
+TCGA-T3-A92M,Stage IVA,417.0,T3,Larynx,Alive,,52.0,417.0,,Yes,Yes,No,1.0,0.0,417.0,417.0,IVA,hnsc
+TCGA-T3-A92N,Stage IVA,95.0,T3,Floor of mouth,Dead,95.0,79.0,46.0,,Yes,Yes,No,0.0,0.0,95.0,46.0,IVA,hnsc
+TCGA-TN-A7HI,Stage IVA,412.0,TN,Tonsil,Alive,,56.0,,,No,No,No,1.0,1.0,412.0,412.0,IVA,hnsc
+TCGA-TN-A7HJ,Stage IVA,403.0,TN,Larynx,Alive,,51.0,,,No,No,No,1.0,1.0,403.0,403.0,IVA,hnsc
+TCGA-TN-A7HL,Stage IVA,619.0,TN,Hypopharynx,Alive,,59.0,,,No,No,No,1.0,1.0,619.0,619.0,IVA,hnsc
+TCGA-UF-A718,Stage IVA,1971.0,UF,Larynx,Alive,,62.0,,,No,No,No,1.0,1.0,1971.0,1971.0,IVA,hnsc
+TCGA-UF-A719,Stage II,1663.0,UF,Floor of mouth,Alive,,54.0,,,No,No,No,1.0,1.0,1663.0,1663.0,II,hnsc
+TCGA-UF-A71A,Stage IVA,86.0,UF,Floor of mouth,Dead,86.0,67.0,,,No,No,No,0.0,1.0,86.0,86.0,IVA,hnsc
+TCGA-UF-A71B,Stage IVA,1506.0,UF,Gum,Alive,,50.0,,,No,No,No,1.0,1.0,1506.0,1506.0,IVA,hnsc
+TCGA-UF-A71D,Stage IVA,1461.0,UF,Larynx,Alive,,54.0,,,No,No,No,1.0,1.0,1461.0,1461.0,IVA,hnsc
+TCGA-UF-A71E,Stage IVA,1504.0,UF,Floor of mouth,Dead,1504.0,63.0,,,No,No,No,0.0,1.0,1504.0,1504.0,IVA,hnsc
+TCGA-UF-A7J9,Stage IVA,1358.0,UF,Larynx,Alive,,75.0,,,No,No,No,1.0,1.0,1358.0,1358.0,IVA,hnsc
+TCGA-UF-A7JA,Stage IVA,2265.0,UF,Other and unspecified parts of mouth,Alive,,66.0,,,No,No,No,1.0,1.0,2265.0,2265.0,IVA,hnsc
+TCGA-UF-A7JC,Stage IVA,546.0,UF,Floor of mouth,Dead,546.0,42.0,,229.0,Yes,No,Yes,0.0,1.0,546.0,546.0,IVA,hnsc
+TCGA-UF-A7JD,Stage IVA,739.0,UF,Other and unspecified parts of mouth,Dead,739.0,71.0,,,No,No,No,0.0,1.0,739.0,739.0,IVA,hnsc
+TCGA-UF-A7JF,Stage IVA,1686.0,UF,Larynx,Alive,,80.0,,,No,No,No,1.0,1.0,1686.0,1686.0,IVA,hnsc
+TCGA-UF-A7JH,Stage IVA,896.0,UF,Larynx,Alive,,59.0,,,No,No,No,1.0,1.0,896.0,896.0,IVA,hnsc
+TCGA-UF-A7JJ,Stage IVA,549.0,UF,Larynx,Alive,,68.0,,,No,No,No,1.0,1.0,549.0,549.0,IVA,hnsc
+TCGA-UF-A7JK,Stage IVA,424.0,UF,Larynx,Dead,424.0,59.0,,341.0,Yes,No,Yes,0.0,1.0,424.0,424.0,IVA,hnsc
+TCGA-UF-A7JO,Stage IVA,631.0,UF,Floor of mouth,Dead,631.0,79.0,,525.0,Yes,No,Yes,0.0,1.0,631.0,631.0,IVA,hnsc
+TCGA-UF-A7JS,Stage IVA,680.0,UF,Other and unspecified parts of tongue,Dead,680.0,59.0,,519.0,Yes,No,Yes,0.0,1.0,680.0,680.0,IVA,hnsc
+TCGA-UF-A7JT,Stage IVA,993.0,UF,Floor of mouth,Dead,993.0,72.0,718.0,,Yes,Yes,No,0.0,0.0,993.0,718.0,IVA,hnsc
+TCGA-UF-A7JV,Stage IVA,90.0,UF,Hypopharynx,Dead,90.0,62.0,,55.0,Yes,No,Yes,0.0,1.0,90.0,90.0,IVA,hnsc
+TCGA-WA-A7H4,Stage II,443.0,WA,Other and unspecified parts of tongue,Alive,,69.0,,,No,No,No,1.0,1.0,443.0,443.0,II,hnsc
